@@ -1,0 +1,2 @@
+kernel,C_terbaik,degree_terbaik,gamma_terbaik,accuracy,precision,recall,f1_score
+Polynomial,10,2,scale,0.9856,0.9857,0.9856,0.9856

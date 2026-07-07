@@ -1,0 +1,111 @@
+/* ============================================================
+   style.css — Form Prediksi Hoaks (tema fleksibel dark/light)
+   ============================================================ */
+
+/* sembunyikan semua label widget (Judul berita, dll) */
+div[data-testid="stWidgetLabel"] {
+	display: none !important;
+}
+
+/* ── Baris input: text area + tombol Prediksi sejajar ──────── */
+div[data-testid="stHorizontalBlock"] {
+	align-items: stretch !important;
+}
+
+div[data-testid="stTextArea"] {
+	height: 100% !important;
+}
+
+/* ── Box text area kiri (input judul berita) ──────────────── */
+div[data-testid="stTextArea"] textarea {
+	height: 100% !important;
+	min-height: 68px !important;   /* ← disamakan sama height= di Python */
+	background-color: var(--secondary-background-color) !important;
+	border: 1px solid rgba(128, 128, 128, 0.25) !important;
+	border-radius: 20px !important;
+	color: var(--text-color) !important;
+	font-size: 16px !important;
+	padding: 16px !important;
+}
+
+div[data-testid="stTextArea"] textarea::placeholder {
+	color: var(--text-color) !important;
+	opacity: 0.45 !important;
+}
+
+/* ── Tombol Prediksi (sejajar penuh dengan text area) ──────── */
+div.stButton {
+	height: 100% !important;
+}
+
+div.stButton > button[kind="primary"] {
+	width: 100% !important;
+	height: 100% !important;
+	min-height: 68px !important;   /* ← disamakan juga di sini */
+	border-radius: 20px !important;
+	background-color: #F44336 !important;
+	border: none !important;
+	color: #ffffff !important;
+	font-weight: 600 !important;
+	font-size: 20px !important;
+}
+
+/* ini kuncinya — tag <p> di dalam tombol yang bandel */
+div.stButton > button[kind="primary"] p {
+	font-size: 20px !important;
+	font-weight: 600 !important;
+}
+
+div.stButton > button[kind="primary"]:hover {
+	background-color: #e13c30 !important;
+	transform: translateY(-1px);
+	transition: transform 0.15s ease-in-out, background-color 0.15s ease-in-out;
+}
+
+/* ── Result section (Hasil Prediksi) ────────────────────────
+   pakai var(--text-color) & var(--secondary-background-color)
+   biar tetep fleksibel dark/light kayak bagian lain */
+
+.result-divider {
+	border: none;
+	border-top: 3px solid var(--text-color);
+	opacity: 0.85;
+	margin: 24px 0 20px 0;
+}
+
+.result-box {
+	border: 1px solid rgba(128, 128, 128, 0.35);
+	border-radius: 14px;
+	padding: 14px 16px;
+	min-height: 64px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	color: var(--text-color);
+	background-color: var(--secondary-background-color);
+	font-size: 20px;
+	margin-bottom: 8px;
+}
+
+.result-box-label {
+	font-weight: 700;
+}
+
+.result-box-value {
+	font-weight: 700;
+	text-transform: capitalize;
+}
+
+.result-box-confidence {
+	border-width: 2px;
+	font-weight: 500;
+}
+
+.result-box-processed {
+	font-style: italic;
+	opacity: 0.75;
+	text-align: left;
+	justify-content: flex-start;
+	min-height: 90px;
+}

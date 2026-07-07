@@ -1,0 +1,21 @@
+label,teks,confidence,kernel
+Valid,Minum air garam bisa sembuhkan semua penyakit dalam 1 hari,61.08,linear
+Valid,Seluruh vaksin berisi chip pelacak rahasia dari pemerintah,86.93,linear
+Valid,Satu kali minum jus daun sirsak mampu menyembuhkan diabetes total,70.83,linear
+Valid,Pemerintah rahasiakan bukti makhluk asing di pegunungan,99.62,linear
+Valid,Orang miskin dapat mobil gratis jika membagikan video ini,50.94,linear
+Valid,Pemerintah sembunyikan fakta tentang pulau yang hilang di laut jawa,98.56,linear
+Valid,pemerintah sembunyikan fakta tentang pulau hilang di pegunungan,97.35,linear
+Valid,pemerintah sembunyikan bukti makhluk asing di laut jawa,97.97,linear
+Valid,pemerintah rahasiakan fakta tentang pulau hilang di kampung itu,99.63,linear
+Valid,pemerintah rahasiakan fakta tentang pulau hilang di bawah tanah,99.50,linear
+Hoaks,Pemerintah umumkan kenaikan gaji guru tahun depan,57.08,linear
+Hoaks,Kemenkes tetapkan jadwal vaksinasi tambahan untuk anak,100.00,linear
+Hoaks,BI pertahankan suku bunga acuan pada rapat bulanan,99.99,linear
+Hoaks,BMKG prediksi hujan lebat di sejumlah wilayah besok,100.00,linear
+Hoaks,Presiden resmikan rumah sakit baru di daerah terpencil,99.77,linear
+Hoaks,Kementerian pendidikan luncurkan beasiswa untuk siswa berprestasi,97.26,linear
+Hoaks,Prabowo ngocok pakai tanganya mayor teddy,99.52,linear
+Hoaks,Video viral menunjukkan hujan uang di jalan tol Jakarta,100.00,linear
+Hoaks,Warga bisa dapat uang Rp10 juta hanya dengan kirim SMS,99.55,linear
+Hoaks,Ponsel android bisa mengisi daya dari cahaya bulan,99.97,linear

@@ -1,0 +1,70 @@
+timestamp,input_text,kernel,label,confidence
+2026-07-01 15:36:48,prabowo ngocok pakai tanganya mayor teddy,linear,Valid,99.52
+2026-07-01 15:36:48,prabowo ngocok pakai tanganya mayor teddy,linear,Valid,99.52
+2026-07-01 15:39:48,prabowo ngocok pakai tanganya mayor teddy,linear,Hoaks,99.52
+2026-07-01 15:39:51,prabowo ngocok pakai tanganya mayor teddy,linear,Hoaks,99.52
+2026-07-01 15:40:21,prabowo ngocok pakai tanganya mayor teddy,linear,Hoaks,99.52
+2026-07-01 15:41:17,prabowo ngocok pakai tanganya mayor teddy,polynomial,Hoaks,97.83
+2026-07-01 15:41:25,prabowo ngocok pakai tanganya mayor teddy,sigmoid,Hoaks,99.13
+2026-07-01 15:42:30,prabowo ngocok pakai tanganya mayor teddy,linear,Hoaks,99.52
+2026-07-01 16:19:01,menteri imipas minta jajaran berkontribusi jangan kelihatan melek tapi tidur,linear,Hoaks,99.90
+2026-07-01 16:19:04,menteri imipas minta jajaran berkontribusi jangan kelihatan melek tapi tidur,linear,Hoaks,99.90
+2026-07-01 16:20:34,BPS minta pelaku usaha beri data valid saat Sensus Ekonomi 2026,linear,Hoaks,99.59
+2026-07-01 16:20:38,BPS minta pelaku usaha beri data valid saat Sensus Ekonomi 2026,linear,Hoaks,99.59
+2026-07-01 16:24:26,Minum air garam bisa sembuhkan semua penyakit dalam 1 hari,linear,Valid,61.08
+2026-07-01 16:30:04,pemerintah rahasiakan fakta tentang pulau hilang di bawah tanah,linear,Valid,99.50
+2026-07-01 16:44:08,pemprov jateng siap pasok energi baru baru kawasan industri batang,linear,Hoaks,99.73
+2026-07-01 20:33:36,prabowo ngocok pake sawit beruncing,linear,Hoaks,99.65
+2026-07-02 22:56:44,prabowo ngocok pakai sawit,linear,Hoaks,91.29
+2026-07-02 22:58:03,gempa m guncang jepara utara,linear,Valid,88.98
+2026-07-02 22:59:10,mobile legends resmi desain skill hero freya rombak,linear,Hoaks,86.61
+2026-07-02 22:59:53,eks dirut taspen ans kosasih tuntut tahun penjara,linear,Hoaks,96.83
+2026-07-02 23:00:41,mantan direktur utama pt taspen antonius nicholas stephanus (ans) kosasih dituntut pidana penjara selama 10 tahun.,linear,Hoaks,53.18
+2026-07-02 23:01:23,psikolog ungkap trauma alami korban kasus deepfake ai porno semarang,linear,Hoaks,99.80
+2026-07-02 23:21:31,psikolog ungkap trauma alami korban kasus deepfake ai porno semarang,linear,Hoaks,99.80
+2026-07-02 23:21:39,psikolog ungkap trauma alami korban kasus deepfake ai porno semarang,linear,Hoaks,99.80
+2026-07-02 23:28:07,psikolog ungkap trauma alami korban kasus deepfake ai porno semarang,linear,Valid,99.80
+2026-07-02 23:28:34,taut rekrutmen skk migas periode,linear,Hoaks,99.23
+2026-07-02 23:29:31,pemkot jakbar ungkap sebab atap lapang padel meruya ambruk,linear,Valid,99.98
+2026-07-03 18:46:54,7 Tersangka Penyekapan Karyawan Percetakan di Jakpus Ditahan!,linear,Valid,97.14
+2026-07-03 18:47:15,prabowo nyoli pake sawit,linear,Valid,77.81
+2026-07-03 18:47:51,prabowo korupsi mbg beserta para jajaran dewan,linear,Hoaks,82.77
+2026-07-03 18:48:18,ijasah jokowi ternyata terbukti palsu,linear,Hoaks,100.00
+2026-07-03 18:48:26,ijasah jokowi ternyata terbukti asli,linear,Hoaks,100.00
+2026-07-03 18:48:29,ijasah jokowi ternyata terbukti asli,linear,Hoaks,100.00
+2026-07-03 18:48:39,ijasah jokowi ternyata terbukti keaslianya,linear,Hoaks,100.00
+2026-07-03 18:48:50,7 Tersangka Penyekapan Karyawan Percetakan di Jakpus Ditahan!,linear,Valid,97.14
+2026-07-03 18:48:55,7 Tersangka Penyekapan Karyawan Percetakan di Jakpus Ditahan!,polynomial,Valid,99.27
+2026-07-03 18:49:08,prabowo nyoli pake sawit,polynomial,Valid,98.12
+2026-07-03 18:49:12,prabowo nyoli pake sawit,polynomial,Valid,98.12
+2026-07-03 18:49:30,prabowo diduga melakukan korupsi saat rapat paripurna,polynomial,Valid,92.00
+2026-07-03 18:49:32,prabowo diduga melakukan korupsi saat rapat paripurna,polynomial,Valid,92.00
+2026-07-03 18:50:52,ijasah jokowi terbukti palsui setelah dilakukan riset mendalam dengan para pakar,polynomial,Hoaks,83.86
+2026-07-03 18:51:05,ijasah jokowi terbukti palsu setelah dilakukan riset mendalam dengan para pakar,polynomial,Hoaks,83.86
+2026-07-03 18:51:53,presiden ri prabowo subianto diduga menyuap menteri esdm bahlil lahadia,polynomial,Valid,70.89
+2026-07-03 18:52:28,presiden ri prabowo subianto diduga menyuap menteri esdm untuk korupsi,polynomial,Valid,78.26
+2026-07-03 18:52:29,presiden ri prabowo subianto diduga menyuap menteri esdm untuk korupsi,polynomial,Valid,78.26
+2026-07-03 20:23:26,"prabowo ngocok pakai sawit bersama megawati, diduga berada indekost",linear,Valid,85.79
+2026-07-03 20:23:57,"Jokowi ngocok pakai sawit bersama megawati, diduga berada indekost",linear,Hoaks,71.68
+2026-07-03 21:36:29,kontol prabowo itu bijinya seperti sawit,linear,Hoaks,80.81
+2026-07-07 15:49:23,prabowo diduga melakukan pencurian durian di kediaman titik,polynomial,Valid,99.74
+2026-07-07 15:49:43,jokowi diduga melakukan pencurian durian di kediaman titik,polynomial,Valid,96.22
+2026-07-07 15:49:48,jokowi diduga melakukan pencurian durian di kediaman titik,polynomial,Valid,96.22
+2026-07-07 15:49:54,jokowi diduga melakukan pencurian durian,polynomial,Valid,74.83
+2026-07-07 15:50:41,prabowo korupsi makan siang bergizi gratis,polynomial,Hoaks,99.49
+2026-07-07 15:52:33,prabowo mencuri durian di kediaman titik,polynomial,Valid,98.91
+2026-07-07 15:53:20,Jokowi membangun universitas swasta di provinsi jawa tengah,polynomial,Hoaks,100.00
+2026-07-07 15:54:09,Prabowo membangun universitas swasta di provinsi jawa tengah,polynomial,Hoaks,98.87
+2026-07-07 15:54:51,Prabowo diduga mencuri durian di kediaman titik,polynomial,Valid,99.71
+2026-07-07 16:00:57,PSSI dan I.League Coba Longgarkan Penonton Tandang Musim Ini,polynomial,Valid,85.82
+2026-07-07 16:01:50,"Mati Suri Sejak 2020, Pramono Buka Lagi Perpustakaan Nyi Ageng Serang",polynomial,Valid,97.61
+2026-07-07 16:02:43,Drone Angkut Petani Terbang di Tuban,polynomial,Valid,62.72
+2026-07-07 16:03:25,Celine Evangelista Antar Anak Masuk Pesantren,polynomial,Valid,97.62
+2026-07-07 16:04:19,"Audy Item Hamil 43 tahun, Iko Uwais Jadi Lebih 'Rewel'",polynomial,Valid,92.73
+2026-07-07 21:17:27,PSSI dan I.League Coba Longgarkan Penonton Tandang Musim Ini,polynomial,Valid,85.82
+2026-07-07 21:18:04,PSSI dan I.League Coba Longgarkan Penonton Tandang Musim Ini,polynomial,Valid,85.82
+2026-07-07 21:19:34,PSSI dan I.League Coba Longgarkan Penonton Tandang Musim Ini,polynomial,Valid,85.82
+2026-07-07 22:05:50,PSSI dan I.League Coba Longgarkan Penonton Tandang Musim Ini,polynomial,Valid,85.82
+2026-07-07 22:06:22,beredar video PSSI dan I.League Coba Longgarkan Penonton Tandang Musim Ini,polynomial,Hoaks,77.88
+2026-07-07 22:55:13,PSSI dan I.League Coba Longgarkan Penonton Tandang Musim Ini,polynomial,Valid,85.82
+2026-07-07 23:00:57,"Mati Suri Sejak 2020, Pramono Buka Lagi Perpustakaan Nyi Ageng Serang",polynomial,Valid,97.61

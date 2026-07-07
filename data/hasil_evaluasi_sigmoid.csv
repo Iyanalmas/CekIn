@@ -1,0 +1,2 @@
+kernel,C_terbaik,gamma_terbaik,accuracy,precision,recall,f1_score
+Sigmoid,1,scale,0.9863,0.9863,0.9863,0.9863
