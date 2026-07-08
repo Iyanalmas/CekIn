@@ -5,6 +5,7 @@ from __future__ import annotations
 import streamlit as st
 
 from config import ASSETS_DIR
+from pages.about import show as show_about
 from pages.comparison import show as show_comparison
 from pages.evaluation import show as show_evaluation
 from pages.home import show as show_home
@@ -37,6 +38,7 @@ def main():
             "Home",
             "Evaluation",
             "Comparison",
+            "About",
         ],
     )
 
@@ -48,6 +50,9 @@ def main():
 
     elif page == "Comparison":
         show_comparison()
+
+    elif page == "About":
+        show_about()
 
 
 if __name__ == "__main__":
